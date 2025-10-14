@@ -8,7 +8,7 @@ icon: server
 
 Emcex's technical infrastructure is built on a modern, cloud-native architecture designed for high availability, scalability, and performance. Our infrastructure leverages cutting-edge technologies and best practices to ensure reliable, secure, and efficient platform operations that can scale to meet growing demand.
 
-<figure><img src="../.gitbook/assets/11.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/00.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Cloud Infrastructure
 
