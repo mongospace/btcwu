@@ -42,6 +42,8 @@ Emcex operates within a comprehensive regulatory compliance framework that ensur
 
 ## Risk Management Framework
 
+<figure><img src="../.gitbook/assets/9.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ### Enterprise Risk Management
 
 * **Risk Governance**: Comprehensive risk governance structure

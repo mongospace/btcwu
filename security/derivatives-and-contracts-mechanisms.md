@@ -8,6 +8,8 @@ icon: seal
 
 The global derivatives market represents one of the largest and most sophisticated financial markets, with a notional value exceeding $600 trillion. Emcex provides comprehensive access to derivative instruments, offering advanced risk management tools, sophisticated pricing models, and institutional-grade execution capabilities.
 
+<figure><img src="../.gitbook/assets/8.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Types of Derivatives
 
 ### Futures Contracts

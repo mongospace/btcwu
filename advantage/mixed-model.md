@@ -32,6 +32,8 @@ The mixed model creates unique arbitrage possibilities by connecting traditional
 * **Cross-Market Execution**: Seamless transitions between traditional and digital trading
 * **Risk Diversification**: Portfolio optimization across uncorrelated asset classes
 
+<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Liquidity Aggregation
 
 Our hybrid approach aggregates liquidity from multiple sources:

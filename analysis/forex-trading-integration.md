@@ -38,6 +38,8 @@ The foreign exchange market represents the largest and most liquid financial mar
 * **USD/RUB**: US Dollar to Russian Ruble - Energy-correlated pair
 * **USD/INR**: US Dollar to Indian Rupee - Asian emerging market
 
+<figure><img src="../.gitbook/assets/5.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Trading Features
 
 ### Advanced Order Types
