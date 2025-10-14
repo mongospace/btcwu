@@ -1,5 +1,5 @@
 ---
-icon: layers
+icon: "layers"
 ---
 
 # Mixed Model

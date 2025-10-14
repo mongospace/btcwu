@@ -1,5 +1,5 @@
 ---
-icon: balance-scale
+icon: "balance-scale"
 ---
 
 # Compliance and Risk Management

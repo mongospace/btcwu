@@ -1,5 +1,5 @@
 ---
-icon: exchange-alt
+icon: "exchange-alt"
 ---
 
 # Forex Trading Integration

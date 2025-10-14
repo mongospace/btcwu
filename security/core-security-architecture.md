@@ -1,5 +1,5 @@
 ---
-icon: shield-alt
+icon: "shield-alt"
 ---
 
 # Core Security Architecture

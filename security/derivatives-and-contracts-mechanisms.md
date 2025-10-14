@@ -1,5 +1,5 @@
 ---
-icon: contract
+icon: "contract"
 ---
 
 # Derivatives and Contracts Mechanisms
