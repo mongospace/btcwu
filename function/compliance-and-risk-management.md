@@ -1,3 +1,7 @@
+---
+icon: balance-scale
+---
+
 # Compliance and Risk Management
 
 ## Regulatory Compliance Framework

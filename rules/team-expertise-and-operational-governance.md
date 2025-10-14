@@ -1,3 +1,7 @@
+---
+icon: user-tie
+---
+
 # Team Expertise and Operational Governance
 
 ## Leadership Team

@@ -1,3 +1,7 @@
+---
+icon: layers
+---
+
 # Mixed Model
 
 ## Hybrid Trading Architecture

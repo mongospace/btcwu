@@ -1,3 +1,7 @@
+---
+icon: briefcase
+---
+
 # Platform Business Model
 
 ## Revenue Streams

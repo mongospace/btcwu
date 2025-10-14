@@ -1,3 +1,7 @@
+---
+icon: chart-bar
+---
+
 # U.S. Stocks and Equities Access
 
 ## U.S. Equity Market Overview

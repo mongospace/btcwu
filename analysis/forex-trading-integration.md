@@ -1,3 +1,7 @@
+---
+icon: exchange-alt
+---
+
 # Forex Trading Integration
 
 ## Global Forex Market Overview

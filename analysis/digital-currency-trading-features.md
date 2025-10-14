@@ -1,3 +1,7 @@
+---
+icon: bitcoin
+---
+
 # Digital Currency Trading Features
 
 ## Cryptocurrency Market Overview

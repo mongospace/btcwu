@@ -1,3 +1,7 @@
+---
+icon: chart-line
+---
+
 # Market Analysis and Opportunities
 
 ## Global Financial Market Landscape

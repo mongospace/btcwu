@@ -1,3 +1,7 @@
+---
+icon: users
+---
+
 # Community and Education
 
 ## Educational Ecosystem

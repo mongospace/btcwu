@@ -1,3 +1,7 @@
+---
+icon: cube
+---
+
 # Platform
 
 ## Emcex Trading Platform

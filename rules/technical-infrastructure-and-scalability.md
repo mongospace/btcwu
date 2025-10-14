@@ -1,3 +1,7 @@
+---
+icon: server
+---
+
 # Technical Infrastructure and Scalability
 
 ## Infrastructure Architecture

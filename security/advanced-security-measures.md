@@ -1,3 +1,7 @@
+---
+icon: lock
+---
+
 # Advanced Security Measures
 
 ## Next-Generation Security Technologies

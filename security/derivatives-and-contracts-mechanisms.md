@@ -1,3 +1,7 @@
+---
+icon: contract
+---
+
 # Derivatives and Contracts Mechanisms
 
 ## Derivatives Market Overview

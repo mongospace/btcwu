@@ -1,3 +1,7 @@
+---
+icon: desktop
+---
+
 # User Interface and Experience Design
 
 ## Design Philosophy

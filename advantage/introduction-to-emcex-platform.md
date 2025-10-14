@@ -1,3 +1,7 @@
+---
+icon: rocket
+---
+
 # Introduction to Emcex Platform
 
 ## Platform Overview

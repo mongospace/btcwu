@@ -1,3 +1,7 @@
+---
+icon: chart-pie
+---
+
 # Analytics and Tools
 
 ## Advanced Analytics Platform

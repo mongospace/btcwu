@@ -1,3 +1,7 @@
+---
+icon: shield-alt
+---
+
 # Core Security Architecture
 
 ## Security Framework Overview

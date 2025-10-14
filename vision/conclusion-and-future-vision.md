@@ -1,3 +1,7 @@
+---
+icon: eye
+---
+
 # Conclusion and Future Vision
 
 ## Platform Achievements
