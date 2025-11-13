@@ -4,222 +4,94 @@ icon: square-sliders-vertical
 
 # Core Security Architecture
 
-## Security Framework Overview
+## Foundation
 
-Emcex's core security architecture is built on a multi-layered defense strategy that combines cutting-edge cybersecurity technologies with industry best practices. Our security framework ensures the protection of user assets, data integrity, and platform availability while maintaining regulatory compliance across all jurisdictions.
+BTCWU’s security architecture fuses defense-in-depth with zero-trust design. Every control—people, process, or technology—is layered, monitored, and continuously improved to protect assets, uphold privacy, and sustain platform integrity.
 
-## Security Principles
+## Guiding Principles
 
 ### Defense in Depth
+- Redundant safeguards spanning endpoint, network, application, and data layers.
+- Secure-by-default configurations and fail-secure recovery paths.
+- Least privilege enforced with privileged access reviews and JIT elevation.
+- Segregation of duties across issuance, approval, and deployment workflows.
+- Continuous monitoring, log analytics, and automated alerting.
+- Scheduled penetration tests, red teaming, and independent audits.
 
-* **Multiple Security Layers**: Redundant security controls at every level
-* **Fail-Safe Design**: Security systems that fail securely
-* **Principle of Least Privilege**: Minimal access rights for all users and systems
-* **Separation of Duties**: Critical functions distributed across multiple personnel
-* **Continuous Monitoring**: Real-time security monitoring and alerting
-* **Regular Audits**: Comprehensive security audits and assessments
-* **Incident Response**: Rapid response to security incidents
+### Zero Trust Everywhere
+- Identity-centric policies validate every request, internal or external.
+- Micro-segmentation and software-defined perimeters.
+- Continuous authentication and adaptive authorization using context and behavior.
+- Encryption end-to-end with certificate automation and rotation.
+- Behavioral analytics feeding anomaly detection and access revocation.
 
-### Zero Trust Architecture
+## Infrastructure Hardening
 
-* **Never Trust, Always Verify**: All access requests are verified
-* **Identity-Based Security**: Security policies based on user identity
-* **Micro-Segmentation**: Network and system segmentation
-* **Least Privilege Access**: Minimal necessary access permissions
-* **Continuous Authentication**: Ongoing user authentication verification
-* **Encryption Everywhere**: End-to-end encryption for all communications
-* **Behavioral Analytics**: AI-powered behavioral analysis
+### Network & Perimeter
+- Layered firewalls, WAF, DDoS mitigation, and API gateways.
+- Mutually authenticated service mesh with granular policy controls.
+- Traffic analytics, deep packet inspection, and encrypted tunnels for admin access.
 
-## Infrastructure Security
+### Compute & Servers
+- Hardened OS images, CIS benchmarks, and immutable infrastructure patterns.
+- Automated patching, host-based intrusion detection, and EDR coverage.
+- File integrity monitoring, kernel hardening, and minimal attack surface.
 
-### Network Security
+### Data Stores
+- Encryption at rest/in transit with HSM-backed keys.
+- RBAC/ABAC within databases, audit trails, and tamper-evident logs.
+- Data masking, tokenization, and isolated non-production environments.
 
-* **Firewall Protection**: Multi-layer firewall architecture
-* **Intrusion Detection**: Advanced intrusion detection systems
-* **DDoS Protection**: Distributed denial-of-service attack mitigation
-* **Network Segmentation**: Isolated network segments for different functions
-* **VPN Access**: Secure virtual private network access
-* **Load Balancing**: Secure load balancing with health checks
-* **Traffic Analysis**: Real-time network traffic analysis
+## Secure Development Lifecycle
 
-### Server Security
+- Threat modeling, security user stories, and automated controls from ideation.
+- SAST, DAST, SCA, IaC scanning, and container image vetting integrated into CI/CD.
+- Manual code reviews with security checklists, secure coding guild practices.
+- External penetration tests, bug bounty program, and vulnerability SLAs.
 
-* **Hardened Operating Systems**: Security-hardened server configurations
-* **Regular Patching**: Automated security patch management
-* **Antivirus Protection**: Comprehensive antivirus and anti-malware systems
-* **Host-Based IDS**: Intrusion detection on individual servers
-* **File Integrity Monitoring**: Continuous file system monitoring
-* **Log Management**: Centralized security log collection and analysis
-* **Backup Security**: Encrypted and secure backup systems
+## API & App Protection
 
-### Database Security
+- OAuth2/OIDC authentication, fine-grained scopes, and HMAC signing.
+- Quotas, rate limiting, and anomaly-based throttling.
+- Input sanitization, output encoding, and templating safeguards.
+- CSP, HSTS, CSRF tokens, and secure cookie handling.
 
-* **Encryption at Rest**: Database encryption for stored data
-* **Encryption in Transit**: Encrypted database communications
-* **Access Controls**: Role-based database access controls
-* **Audit Logging**: Comprehensive database audit trails
-* **Data Masking**: Sensitive data masking for non-production environments
-* **Backup Encryption**: Encrypted database backups
-* **Regular Security Updates**: Database security patch management
+## Data Privacy & Governance
 
-## Application Security
+- Data classification tiers informing retention, access, and encryption policies.
+- Privacy-by-design reviews, data minimization, and consent management.
+- Automated data retention deletion, right-to-be-forgotten workflows, and portability exports.
 
-### Secure Development Lifecycle
-
-* **Security Requirements**: Security requirements in all development phases
-* **Code Reviews**: Comprehensive security code reviews
-* **Static Analysis**: Automated static code analysis
-* **Dynamic Testing**: Dynamic application security testing
-* **Penetration Testing**: Regular penetration testing by third parties
-* **Vulnerability Management**: Systematic vulnerability identification and remediation
-* **Security Training**: Developer security training and certification
-
-### API Security
-
-* **Authentication**: Strong API authentication mechanisms
-* **Authorization**: Fine-grained API authorization controls
-* **Rate Limiting**: API rate limiting and throttling
-* **Input Validation**: Comprehensive input validation and sanitization
-* **Output Encoding**: Secure output encoding to prevent injection attacks
-* **API Gateway**: Centralized API security management
-* **Monitoring**: Real-time API security monitoring
-
-### Web Application Security
-
-* **HTTPS Everywhere**: SSL/TLS encryption for all web communications
-* **Content Security Policy**: CSP headers to prevent XSS attacks
-* **Cross-Site Request Forgery**: CSRF protection mechanisms
-* **SQL Injection Prevention**: Parameterized queries and input validation
-* **Cross-Site Scripting**: XSS prevention and output encoding
-* **Session Management**: Secure session management and timeout
-* **Secure Headers**: Security headers for enhanced protection
-
-## Data Protection
-
-### Data Classification
-
-* **Public Data**: Non-sensitive data with minimal protection
-* **Internal Data**: Internal use data with standard protection
-* **Confidential Data**: Sensitive data with enhanced protection
-* **Restricted Data**: Highly sensitive data with maximum protection
-* **Personal Data**: GDPR and privacy regulation compliance
-* **Financial Data**: PCI DSS and financial regulation compliance
-* **Health Data**: HIPAA and health data protection compliance
-
-### Data Encryption
-
-* **AES-256 Encryption**: Military-grade encryption for sensitive data
-* **Key Management**: Secure encryption key management systems
-* **Key Rotation**: Regular encryption key rotation
-* **Hardware Security Modules**: HSM-based key storage and management
-* **End-to-End Encryption**: Complete data encryption from source to destination
-* **Database Encryption**: Transparent database encryption
-* **File System Encryption**: Encrypted file systems for data storage
-
-### Data Privacy
-
-* **Privacy by Design**: Privacy considerations in all system designs
-* **Data Minimization**: Collection of only necessary data
-* **Purpose Limitation**: Data used only for stated purposes
-* **Data Retention**: Automated data retention and deletion
-* **Right to Erasure**: GDPR-compliant data deletion capabilities
-* **Data Portability**: User data export and portability
-* **Consent Management**: Comprehensive consent management system
-
-## Identity and Access Management
+## Identity & Access Management
 
 ### Authentication
-
-* **Multi-Factor Authentication**: MFA for all user accounts
-* **Biometric Authentication**: Fingerprint and face recognition
-* **Hardware Tokens**: Hardware-based authentication tokens
-* **Single Sign-On**: SSO integration with enterprise systems
-* **Password Policies**: Strong password requirements and policies
-* **Account Lockout**: Automatic account lockout after failed attempts
-* **Session Management**: Secure session management and timeout
+- Mandatory MFA using hardware keys, biometrics, or OTP.
+- Passwordless options for verified devices and institutional SSO integration.
+- Session management with device fingerprinting and risk engine enforcement.
 
 ### Authorization
+- RBAC for core systems, extended with ABAC for sensitive operations.
+- Just-in-time access provisioning, break-glass workflows, and PAM vaulting.
+- Quarterly recertification, access analytics, and anomaly detection.
 
-* **Role-Based Access Control**: RBAC for system access management
-* **Attribute-Based Access Control**: ABAC for fine-grained access control
-* **Principle of Least Privilege**: Minimal necessary access permissions
-* **Regular Access Reviews**: Periodic access rights reviews
-* **Privileged Access Management**: Special controls for privileged accounts
-* **Just-in-Time Access**: Temporary access for specific tasks
-* **Access Logging**: Comprehensive access logging and monitoring
+## Detection & Response
 
-### Identity Management
+- SIEM + SOAR platform correlating logs, behavior, and threat intel.
+- Real-time vulnerability scanning, configuration drift detection, and compliance checks.
+- Incident response playbooks with defined RACI, communication, and escalation paths.
+- Forensic-ready logging, evidence preservation, and regulator notification procedures.
 
-* **Identity Verification**: KYC and identity verification processes
-* **Identity Federation**: Federated identity management
-* **Directory Services**: Centralized directory services
-* **Provisioning**: Automated user provisioning and deprovisioning
-* **Self-Service**: User self-service password reset and management
-* **Identity Analytics**: Identity and access analytics
-* **Compliance Reporting**: Identity and access compliance reporting
+## Resilience & Continuity
 
-## Monitoring and Incident Response
+- Disaster recovery plans with tested RTO/RPO targets and multi-region failover.
+- Business continuity exercises including cyber, market, and infrastructure scenarios.
+- Backup strategy combining immutable snapshots, air-gapped storage, and cryptographic verification.
 
-### Security Monitoring
+## Compliance & Oversight
 
-* **Security Information and Event Management**: SIEM for centralized monitoring
-* **Real-Time Alerting**: Immediate security incident alerts
-* **Behavioral Analytics**: AI-powered behavioral analysis
-* **Threat Intelligence**: External threat intelligence integration
-* **Vulnerability Scanning**: Regular vulnerability assessments
-* **Penetration Testing**: Regular penetration testing
-* **Security Metrics**: Key security performance indicators
+- Alignment with SOC 2, ISO 27001, PCI DSS, GDPR, CCPA, MAS TRM, and other regional mandates.
+- Central GRC platform managing policies, risks, controls, and audits.
+- Vendor/security assessments, contract clauses, and continuous monitoring of third parties.
+- Executive-level risk dashboards and board reporting cadence.
 
-### Incident Response
-
-* **Incident Response Plan**: Comprehensive incident response procedures
-* **Response Team**: Dedicated security incident response team
-* **Communication Plan**: Incident communication and notification procedures
-* **Forensic Capabilities**: Digital forensics and evidence collection
-* **Recovery Procedures**: System recovery and business continuity
-* **Post-Incident Review**: Lessons learned and process improvement
-* **Regulatory Reporting**: Incident reporting to regulatory authorities
-
-### Business Continuity
-
-* **Disaster Recovery**: Comprehensive disaster recovery planning
-* **Backup Systems**: Redundant backup systems and data centers
-* **Failover Capabilities**: Automatic failover to backup systems
-* **Recovery Time Objectives**: Defined recovery time objectives
-* **Recovery Point Objectives**: Defined recovery point objectives
-* **Testing**: Regular disaster recovery testing
-* **Documentation**: Comprehensive disaster recovery documentation
-
-## Compliance and Governance
-
-### Regulatory Compliance
-
-* **GDPR Compliance**: European General Data Protection Regulation
-* **PCI DSS**: Payment Card Industry Data Security Standard
-* **SOX Compliance**: Sarbanes-Oxley Act compliance
-* **HIPAA**: Health Insurance Portability and Accountability Act
-* **ISO 27001**: Information security management system
-* **SOC 2**: Service Organization Control 2 compliance
-* **NIST Framework**: National Institute of Standards and Technology framework
-
-### Security Governance
-
-* **Security Policies**: Comprehensive security policies and procedures
-* **Risk Management**: Enterprise risk management framework
-* **Security Awareness**: Employee security awareness training
-* **Vendor Management**: Third-party vendor security management
-* **Change Management**: Security-focused change management
-* **Audit Management**: Internal and external security audits
-* **Compliance Monitoring**: Continuous compliance monitoring
-
-### Third-Party Security
-
-* **Vendor Assessment**: Comprehensive vendor security assessments
-* **Contract Requirements**: Security requirements in vendor contracts
-* **Ongoing Monitoring**: Continuous vendor security monitoring
-* **Incident Coordination**: Vendor incident coordination procedures
-* **Data Protection**: Third-party data protection requirements
-* **Access Controls**: Vendor access control management
-* **Audit Rights**: Vendor audit and assessment rights
-
-Emcex's core security architecture provides comprehensive protection for all platform components, ensuring the highest levels of security while maintaining operational efficiency. Our multi-layered approach and continuous monitoring ensure that security threats are identified and mitigated before they can impact our users or operations.
+BTCWU’s core security architecture ensures trust by design—delivering resilient defenses, transparent governance, and a relentless focus on safeguarding user value.
