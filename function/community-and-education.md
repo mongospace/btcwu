@@ -8,7 +8,7 @@ icon: users
 
 BTCWU cultivates a collaborative environment where traders progress from curiosity to mastery. Curriculum design, community rituals, and expert mentorship all converge to deliver continuous growth and shared success.
 
-<figure><img src="../.gitbook/assets/10.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/community.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Structured Learning Paths
 

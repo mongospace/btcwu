@@ -12,7 +12,7 @@ BTCWU is engineered as a fusion point where traditional finance and blockchain-n
 
 BTCWU exists to open premium market infrastructure to a wider audience without sacrificing governance or safety. We focus on compressing onboarding friction, providing transparent pricing, and embedding compliance by design so that every participant—from first-time investor to regulated fund—can operate with confidence.
 
-<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/overview.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Guiding Principles
 

@@ -19,7 +19,7 @@ The U.S. equities universe is the deepest pool of listed capital worldwide, exce
 * **Regional Exchanges & ATSs** for localized liquidity.
 * **Institutional Dark Pools** for discreet block execution.
 
-<figure><img src="../.gitbook/assets/7.jpg" alt="" width="551"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/us-stock.jpg" alt="" width="551"><figcaption></figcaption></figure>
 
 ### Segments Served
 

@@ -8,6 +8,8 @@ icon: route
 
 BTCWU’s roadmap translates our ambition—becoming the most trusted multi-asset trading hub—into staged delivery. Each phase compounds capabilities, revenue, and regulatory reach while keeping user outcomes at the center.
 
+<figure><img src="../.gitbook/assets/roadmap.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Phase 1 · Launchpad (Months 1–12)
 
 ### Core Foundations

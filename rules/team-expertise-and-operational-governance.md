@@ -8,6 +8,8 @@ icon: user-tie
 
 BTCWU brings together operators from Tier-1 banks, top fintechs, and regulatory agencies. The leadership collective balances strategic vision, engineering rigor, and governance discipline to scale responsibly.
 
+<figure><img src="../.gitbook/assets/leadership.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Executive Bench
 
 ### Chief Executive Officer

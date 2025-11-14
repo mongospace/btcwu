@@ -8,7 +8,7 @@ icon: seal
 
 Derivatives remain the backbone of institutional hedging and speculation, with global notional exposure surpassing $600T. BTCWU delivers a unified venue covering futures, options, swaps, and structured products—supported by precision risk tooling and transparent governance.
 
-<figure><img src="../.gitbook/assets/8.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/risk.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Instrument Spectrum
 

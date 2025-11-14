@@ -8,6 +8,8 @@ icon: chart-pie
 
 BTCWU equips traders with an integrated analytics stack that fuses real-time data, machine learning diagnostics, and highly visual workspaces. Every module is crafted to surface signal, streamline execution, and translate complex datasets into clear action.
 
+<figure><img src="../.gitbook/assets/analytics.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Market Data Fabric
 
 ### Live Market Intelligence

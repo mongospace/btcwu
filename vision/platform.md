@@ -8,7 +8,7 @@ icon: cube
 
 BTCWU is the product of years of engineering rigor and market insight. The platform connects legacy markets, digital assets, and emerging instruments inside a unified experience—bridging institutional requirements with the accessibility modern traders expect.
 
-<figure><img src="../.gitbook/assets/13.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vision.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Architecture Pillars
 

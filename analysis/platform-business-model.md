@@ -8,7 +8,7 @@ icon: briefcase
 
 BTCWU runs on a diversified commercial engine that scales with user adoption and keeps revenue concentration low. Each stream is designed to reinforce platform stickiness while maintaining transparent pricing.
 
-<figure><img src="../.gitbook/assets/4.jpg" alt="" width="552"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/revenue.jpg" alt="" width="552"><figcaption></figcaption></figure>
 
 ### Core Revenue Streams
 

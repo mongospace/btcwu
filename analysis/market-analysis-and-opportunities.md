@@ -24,7 +24,7 @@ Capital markets are undergoing synchronized change. Digitization, regulatory cla
 * **NFTs & Tokenized Assets**: $25B+ annualized volume with enterprise adoption use cases.
 * **CBDCs & Stablecoins**: Early-stage market poised to exceed $50B in the near term.
 
-<figure><img src="../.gitbook/assets/3.jpg" alt="" width="470"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/global-1.jpg" alt="" width="470"><figcaption></figcaption></figure>
 
 ## Growth Catalysts
 
@@ -130,6 +130,8 @@ Capital markets are undergoing synchronized change. Digitization, regulatory cla
 * Active regulator engagement, transparent reporting.
 * Continuous R&D and security investments.
 * Partnerships with banks, custodians, and data providers.
+
+<figure><img src="../.gitbook/assets/global-2.jpg" alt="" width="470"><figcaption></figcaption></figure>
 
 ## Commercial Outlook
 

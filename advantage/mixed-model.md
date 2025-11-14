@@ -32,7 +32,7 @@ Bringing these domains together unlocks multidimensional strategies:
 * **Seamless Execution**: A single routing engine manages transitions between asset classes.
 * **Portfolio Resilience**: Correlation-aware analytics support hedging and risk spreading.
 
-<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Liquidity.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Liquidity Fabric
 

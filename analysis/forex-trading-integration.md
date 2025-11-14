@@ -22,7 +22,7 @@ Foreign exchange remains the deepest capital market on the planet, clearing more
 
 * **USD/TRY**, **USD/ZAR**, **USD/MXN**, **USD/BRL**, **USD/RUB**, **USD/INR**, plus additional regional pairs on request.
 
-<figure><img src="../.gitbook/assets/5.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fx.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Execution Toolkit
 

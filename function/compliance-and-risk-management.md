@@ -31,7 +31,7 @@ BTCWU embeds compliance in every layer of the platform, aligning with global reg
 
 ## Enterprise Risk Management
 
-<figure><img src="../.gitbook/assets/9.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/regulatory.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Governance Backbone
 

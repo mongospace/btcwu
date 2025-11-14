@@ -18,6 +18,8 @@ BTCWU’s security architecture fuses defense-in-depth with zero-trust design. E
 - Continuous monitoring, log analytics, and automated alerting.
 - Scheduled penetration tests, red teaming, and independent audits.
 
+<figure><img src="../.gitbook/assets/defense.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ### Zero Trust Everywhere
 - Identity-centric policies validate every request, internal or external.
 - Micro-segmentation and software-defined perimeters.

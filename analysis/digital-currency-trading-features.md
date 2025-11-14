@@ -28,7 +28,7 @@ Cryptocurrencies have matured from experimental payment networks into globally t
 
 * **AVAX, FTM, ALGO, XTZ, ATOM, NEAR** curated with research notes and liquidity programs.
 
-<figure><img src="../.gitbook/assets/6.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/digital-asset.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Execution Modes
 

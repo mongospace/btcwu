@@ -8,7 +8,7 @@ icon: eye
 
 BTCWU has laid the groundwork for a borderless, multi-asset marketplace. We fused traditional capital markets with digital innovation, delivered institutional security to every client tier, and built communities that learn and profit together.
 
-<figure><img src="../.gitbook/assets/14.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/long-term.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Milestones to Date
 

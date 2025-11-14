@@ -8,6 +8,8 @@ icon: desktop
 
 BTCWU’s interface philosophy blends clarity, speed, and control. Every interaction is optimized for traders under pressure, ensuring they can interpret markets, act decisively, and customize workflows without friction.
 
+<figure><img src="../.gitbook/assets/interface.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Foundational Principles
 
 ### Human-Centered Research

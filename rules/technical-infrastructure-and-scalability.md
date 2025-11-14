@@ -8,7 +8,7 @@ icon: server
 
 BTCWU runs on a cloud-native, security-first foundation engineered for low latency, high throughput, and elastic growth. The platform blends multi-cloud resilience with edge acceleration so that traders experience consistent performance worldwide.
 
-<figure><img src="../.gitbook/assets/00.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/technical.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Cloud Fabric
 

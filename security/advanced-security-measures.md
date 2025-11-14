@@ -8,6 +8,8 @@ icon: lock
 
 BTCWU operates with the assumption of breach—designing layered defenses that adapt faster than threats evolve. Our program synthesizes AI-driven detection, hardware roots of trust, and zero-trust access to protect people, data, and transactions end-to-end.
 
+<figure><img src="../.gitbook/assets/safeguards.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Intelligent Defense
 
 ### AI & Analytics
