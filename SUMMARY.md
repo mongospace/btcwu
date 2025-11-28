@@ -38,4 +38,4 @@
 
 * [Long-Term Outlook](vision/conclusion-and-future-vision.md)
 * [Vision Framework](vision/platform.md)
-* [Platform](https://btcwu.com/#/home){:target="_blank" rel="noopener noreferrer"}
+* <a href="https://btcwu.com/#/home" target="_blank" rel="noopener noreferrer">Platform</a>
